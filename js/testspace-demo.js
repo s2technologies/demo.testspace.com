@@ -40,7 +40,7 @@ var tour = {
     {
       title: 'Standard Charts and Metrics',
       target: document.querySelector(".metrics-header"),
-      content: 'Built-in tracking of source code changes, tests growth, regressions, and more.',
+      content: 'Built-in tracking of source code changes, test growth, regressions, and more.',
       placement: 'top',
       arrowOffset: 'center',
       yOffset: 34,
