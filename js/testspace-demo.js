@@ -56,7 +56,7 @@ var tour = {
     
     {
       title: 'Optimize using Insights',
-      content: 'Testspace Insights - indicators that continuously assess your testing process. See article <a href=\"https://blog.testspace.com/testspace-insights/\" target=\"_blank\">Testspace Insights</a> for details.',
+      content: 'Insights - performance indicators that continuously assess your testing process. See article <a href=\"https://blog.testspace.com/testspace-insights/\" target=\"_blank\">Testspace Insights</a> for details.',
       target: document.querySelector(".insights-header"),
       placement: 'top',
       arrowOffset: 'center',
@@ -101,7 +101,7 @@ var tour = {
     },
     {
       title: 'Triage Test Failures',
-      content: 'Testspace provides a macro view of the efficiency of addressing test failures. Check out our blog article on <a href=\"https://blog.testspace.com/filtering-and-tracking-test-failures/\" target=\"_blank\">Filtering and Tracking</a> for more details.',
+      content: 'Testspace provides views to both track and improve the efficiency of addressing test failures. Check out our blog article on <a href=\"https://blog.testspace.com/filtering-and-tracking-test-failures/\" target=\"_blank\">Filtering and Tracking</a> for more details.',
       target: 'schema-orphans',
       placement: 'top',
       xOffset: 260,
