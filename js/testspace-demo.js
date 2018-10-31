@@ -102,7 +102,9 @@ var tour = {
     {
       title: 'Triage Test Failures',
       content: 'Testspace provides views to both track and improve the efficiency of addressing test failures. Check out our blog article on <a href=\"https://blog.testspace.com/filtering-and-tracking-test-failures/\" target=\"_blank\">Filtering and Tracking</a> for more details.',
-      target: 'schema-orphans',
+   //   target: 'schema-orphans',
+      target: 'test-suite-10952212',
+  // target: document.querySelector(".insights-header"),
       placement: 'top',
       xOffset: 260,
       yOffset: 80,
