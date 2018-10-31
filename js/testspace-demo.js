@@ -102,9 +102,7 @@ var tour = {
     {
       title: 'Triage Test Failures',
       content: 'Testspace provides views to both track and improve the efficiency of addressing test failures. Check out our blog article on <a href=\"https://blog.testspace.com/filtering-and-tracking-test-failures/\" target=\"_blank\">Filtering and Tracking</a> for more details.',
-   //   target: 'schema-orphans',
       target: 'test-suite-10952212',
-  // target: document.querySelector(".insights-header"),
       placement: 'top',
       xOffset: 260,
       yOffset: 80,
@@ -116,13 +114,13 @@ var tour = {
         window.location = '/projects/s2technologies:testspace/insights';
       },
       onNext: function() {
-        window.location = '/spaces/114741/schema/_failures';
+        window.location = '/spaces/114741/current/107680/_failures';
       },
     },
     {
       title: 'Single-click Failure Filtering!',
       content: 'Complete failure context: call stack, timing information, and more.',
-      target: document.querySelector('.schema-orphans'),
+      target: 'test-suite-10952216',
       placement: 'top',
       yOffset: 120,
       xOffset: 350,
