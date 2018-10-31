@@ -114,7 +114,7 @@ var tour = {
         window.location = '/projects/s2technologies:testspace/insights';
       },
       onNext: function() {
-        window.location = '/spaces/114741/current/107680/_failures';
+        window.location = '/spaces/114741/current/107680/failures';
       },
     },
     {
