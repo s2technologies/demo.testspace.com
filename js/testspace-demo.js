@@ -96,7 +96,7 @@ var tour = {
       yOffset: 44,
       multipage: true,
       onNext: function() {
-        window.location = '/projects/58493/spaces/add-test-reporting-failures';
+        window.location = '/spaces/114741/result_sets/107680';
       },
     },
     {
@@ -114,7 +114,7 @@ var tour = {
         window.location = '/projects/s2technologies:testspace/insights';
       },
       onNext: function() {
-        window.location = '/spaces/114741/current/108158/failures';
+        window.location = '/spaces/114741/result_sets/107680/failures';
       },
     },
     {
