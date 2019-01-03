@@ -7,8 +7,8 @@ var tour = {
   steps: [
     
      {
-      title: 'Manage Test Results',
-      content: 'Tool agnostic Results Management designed for Automation/CI. See our <a href=\"https://blog.testspace.com/\" target=\"_blank\">blog</a> for details.',
+      title: 'Dashboard for Status',
+      content: 'Review status accross multiple teams, different automation tools, and manual testing solutions. See <a href=\"https://www.testspace.com/blog/managing-software-quality-under-continuous-integration\" target=\"_blank\">Managing Quality under CI</a> for details.',
       target: 'project-142',
       placement: 'top',
       arrowOffset: 'center',
@@ -26,8 +26,8 @@ var tour = {
       arrowOffset: 'center'
     },
     {
-      title: 'Elevated Important Metrics',
-      content: 'Include important metrics in the build status check. Add your own <a href=\"https://blog.testspace.com/turn-log-files-into-actionable-metrics/\" target=\"_blank\">custom charts</a> and quality metrics.',
+      title: 'Elevate Important Metrics',
+      content: 'Include important metrics in the build status check. Add your own <a href=\"https://www.testspace.com/blog/turning-log-file-data-into-actionable-metrics\" target=\"_blank\">custom charts</a> and quality metrics.',
       target: 'project-142',
       placement: 'top',
       arrowOffset: 'center',
@@ -55,8 +55,8 @@ var tour = {
     },
     
     {
-      title: 'Optimize using Insights',
-      content: 'Insights - performance indicators that continuously assess your testing process. See article <a href=\"https://blog.testspace.com/testspace-insights/\" target=\"_blank\">Testspace Insights</a> for details.',
+      title: 'Test Analytics for Improving',
+      content: 'Insights - performance indicators that continuously assess your testing process. See article <a href=\"https://www.testspace.com/blog/test-analytics-for-continuous-integration\" target=\"_blank\">Test Analytics for CI</a> for details.',
       target: document.querySelector(".insights-header"),
       placement: 'top',
       arrowOffset: 'center',
@@ -101,7 +101,7 @@ var tour = {
     },
     {
       title: 'Triage Test Failures',
-      content: 'Testspace provides views to both track and improve the efficiency of addressing test failures. Check out our blog article on <a href=\"https://blog.testspace.com/filtering-and-tracking-test-failures/\" target=\"_blank\">Filtering and Tracking</a> for more details.',
+      content: 'Testspace provides views to both track and improve the efficiency of addressing test failures. Check out our blog article on <a href=\"https://www.testspace.com/blog/filtering-and-tracking-test-failures\" target=\"_blank\">Filtering and Tracking</a> for more details.',
       target: 'centered-overlay',
       placement: 'top',
       yOffset: 60,
