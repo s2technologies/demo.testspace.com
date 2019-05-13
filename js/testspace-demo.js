@@ -13,7 +13,7 @@ var tour = {
       placement: 'top',
       arrowOffset: 'center',
       xOffset: 300,
-      yOffset: -75,
+      yOffset: -65,
       onShow: function() {
         $('.hopscotch-bubble-arrow-container').css('visibility', 'hidden');
       }
