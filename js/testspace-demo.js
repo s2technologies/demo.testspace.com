@@ -56,7 +56,7 @@ var tour = {
     
     {
       title: 'Test Analytics for Improving',
-      content: 'Insights - performance indicators that continuously assess your testing process. See <a href=\"https://help.testspace.com/docs/dashboard/project-insights" target=\"_blank\">Test Analytics for CI</a> for details.',
+      content: 'Insights - performance indicators that continuously assess your testing process. See <a href=\"https://help.testspace.com/docs/dashboard/project-insights" target=\"_blank\">Testspace Insights</a> for details.',
       target: document.querySelector(".insights-header"),
       placement: 'top',
       arrowOffset: 'center',
